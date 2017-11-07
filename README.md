@@ -3,7 +3,6 @@ tweek插件，在微信中自定义用户当前所在的位置，从而查看附
 
 # 1.实现界面
 ![1.PNG](https://github.com/zhaochengxiang/iOSWeChatFakeLocation/blob/master/images/1.jpeg)
-![2.PNG](https://github.com/zhaochengxiang/iOSWeChatFakeLocation/blob/master/images/2.jpeg)
 ![3.PNG](https://github.com/zhaochengxiang/iOSWeChatFakeLocation/blob/master/images/3.jpeg)
 ![4.PNG](https://github.com/zhaochengxiang/iOSWeChatFakeLocation/blob/master/images/4.jpeg)
 ![5.PNG](https://github.com/zhaochengxiang/iOSWeChatFakeLocation/blob/master/images/5.jpeg)
